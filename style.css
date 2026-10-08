@@ -23,3 +23,9 @@ p {
     color: #333;
     font-size: 18px;
 }
+
+img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
